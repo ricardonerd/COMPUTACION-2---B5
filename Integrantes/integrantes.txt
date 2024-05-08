@@ -1,1 +1,5 @@
-integrantes:
+Apellidos y nombres:
+  Butrón Benites Ricardo Alonso
+  Lupaca Sancja Damaris Dana
+  Zapata Mestas Emmanuel
+  Quea Carlo Kevin Baltazar
